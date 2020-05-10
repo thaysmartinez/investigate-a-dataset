@@ -11,7 +11,7 @@ Is there a correlation between seasonality and popularity?
 Which movie has the highest revenue?
 Which titles are the most and least profitable?
 During which season movies tend to have the highest revenues?
-In which season movies get the higest return on investment?
+In which season movies get the highest return on investment?
 Do movies with high revenues have higher voting average?
 
 ## Data set features description
